@@ -14,8 +14,7 @@ use TorneLIB\Exception\Constants;
  * Class Version netcurl version guard, throws errors when running too low PHP-versions (below 5.4).
  *
  * @package TorneLIB\Helpers
- * @since 6.1.0
- * @version 6.1.1
+ * @version 6.1.0
  */
 class Version
 {
